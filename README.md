@@ -1,2 +1,2 @@
-# NeuralNetwork
-Neural network library for python
+# PackProp
+PackProp network library for python
